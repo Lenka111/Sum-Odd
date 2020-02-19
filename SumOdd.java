@@ -1,5 +1,5 @@
 //Elena Voinu
-
+//Control Flow Statements 
 public class SumOdd {
     
     //method that checks if each number in the range is odd or even
